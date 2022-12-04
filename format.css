@@ -1,0 +1,27 @@
+
+        .headingone{
+            color:maroon;
+            font-size: 100px;
+            text-decoration: underline;
+        } 
+        .headingtwo{
+            border:2px solid green;
+        }
+        h4{
+            color:blue;
+        }
+        .shape{
+            background:red;
+            height: 400px;
+            width: 400px;
+            border-radius: 50%;
+        }
+        .div-one{
+            display: flex;
+            justify-content: space-around;
+
+        }
+        h1{ 
+            border: 2px solid red;
+        }
+        
